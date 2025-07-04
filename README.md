@@ -10,15 +10,6 @@ This project explores gene expression profiles of breast cancer subtypes using P
 - Visualize subtype separability in 2D space  
 - Extract biological insights to guide future classification modeling
 
-## 📁 Repository Structure
-
-```
-.
-├── notebooks/
-│   └── GSE45827_PCA_tSNE_Analysis.ipynb
-├── requirements.txt
-└── README.md
-```
 
 ## 📥 Dataset Information
 
